@@ -1,25 +1,24 @@
-# Student Name: LUO Suhai
-# Student ID: 3160708
-
-# Assignment 2, Question 1
 """
-A palindrome is a number or text phrases that reads the same backwards as forwards. For example,
-each of the following five-digit integers is a palindrome: 12321, 55555, 45554, and 11611.
-Write a Python program that reads in a number or a text phrase as a string and determines whether
-it is a palindrome. You may assume that any input entered by the user would only contain lowercase
-alphabets from a-z and digits from 0-9.
+https://leetcode.com/problems/plus-one/submissions/
 """
+from typing import List
 
 
-def is_palindrome(phase: str) -> bool:
-    """
-    :param phase: a number or a text
-    :return: whether it is a palindrome
-    """
-    reverse = phase[::-1]
-    return phase == reverse
+def plusOne(digits: List[int]) -> List[int]:
+    length = len(digits)
+    while length > 0:
+        number = digits[length - 1]
+        number += 1
+        if number > 9:
+            digits[length - 1] = 0
+            length -= 1
+            if length == 0:
+                return [1] + digits
+            continue
+        digits[length - 1] = number
+        break
+    return digits
 
 
 if __name__ == '__main__':
-    text = input("Please input a phase:")
-    print(is_palindrome(text))
+    print(plusOne([3, 9, 9, 9]))
