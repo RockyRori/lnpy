@@ -74,6 +74,7 @@ def extract_and_save_text(file_path, base_output_path):
 
 
 # 示例用法
-file_path = "Database Management Lecture 1.pdf"  # 输入文件路径
-base_output_path = "output"  # 输出文件基础路径
-extract_and_save_text(file_path, base_output_path)
+if __name__ == '__main__':
+    file_path = "./lecture/Statistics for Data Science Lecture 2.pdf"  # 输入文件路径
+    base_output_path = "./output/extraction"  # 输出文件基础路径
+    extract_and_save_text(file_path, base_output_path)
