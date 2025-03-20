@@ -1,0 +1,78 @@
+could  be a good  fit if:
+•want  to get an idea  of people’s  attitudes  and  opinions
+•want  to run a test  pilot  for survey
+•want  to generate  hypotheses  that  can  be tested  in greater  depth  in future  research
+Be aware of research bias, such as selection bias and sampling bias.
+Purposive Sampling 
+83 CDS 533Purposive  sample,  also  known  as judgement  sampling,  involves  the researcher  using  
+their  expertise  to select  a sample  that  is most  useful  to the purposes  of the research .
+•wants  to gain  detailed  knowledge  about  a specific  phenomenon  rather  than  make  
+statistical  inferences,  or where  the population  is very  small  and  specific .
+•Make  sure  to describe  inclusion  and  exclusion  criteria  and  beware  of observer  bias  
+affecting  arguments . 
+Purposive Sampling 
+84 CDS 533
+Purposive sampling isbest used when want tofocus indepth onrelatively small samples .Perhaps
+would like toaccess aparticular subset ofthe population that shares certain characteristics  when
+you have alotofbackground information about the topic .Itisathigh risk forresearch biases like
+observer bias .
+Snowball Sampling 
+85 CDS 533Snowball  sampling  is a sampling  method  where  new  units  are recruited  by other  units  
+to form  part  of the sample . 
+•useful  way  to conduct  research  about  people  with  specific  traits  who  might  
+otherwise  be difficult  to identify  (e.g., people  with  a rare  disease)
+• downside  here  is representativeness  due  to the reliance  on participants  recruiting  
+others,  which  leads  to sampling  bias .
+Snowball Sampling 
+86 CDS 533•widely  employed  method  in qualitative  research,  specifically  when  studying  hard -to-reach  
+populations . These  may  include :
+•Populations  that  are small  relative  to the general  population
+•Geographically  dispersed  populations
+•Populations  possessing  a social  stigma  or particular  shared  points  of interest
+•used  to study  sensitive  topics,  or topics  that  people  may  prefer  not to discuss  publicly
+Quota Sampling 
+87 CDS 533Quota  sampling  is a sampling  method  that  relies  on the non -random  selection  of a 
+predetermined  number  or proportion  of units . 
+•It first  divide  the population  into  mutually  exclusive  subgroups  (called  strata)  and  
+then  recruit  sample  units  until  you  reach  the quota . 
+•The  aim  of quota  sampling  is to control  what  or who  makes  up the sample .
+•To gain  insight  about  a characteristic  of a particular  subgroup  or investigate  
+relationships  between  different  subgroups .
+Quota Sampling 
+88 CDS 533•It is most  commonly  used  in research  studies  where  there  is no sampling  frame  available,  
+since  it can  help  researchers  obtain  a sample  that  is as representative  (a broad  picture)  as 
+possible  of the population  being  studied .
+•It cannot  be generalized  to the wider  population  and  is at high  risk  for bias .
+Differences
+89 CDS 533Difference between non -probability sampling and probability sampling:
+Sampling Methods to use
+90 CDS 533For any  research,  it is essential  to choose  a sampling  method  accurately  to meet  the goals  of the 
+study . The  effectiveness  of sampling  relies  on various  factors . Here  are some  steps  expert  
+researchers  follow  to decide  the best  sampling  method .
+•Jot down  the research  goals . Generally,  it must  be a combination  of cost,  precision,  or 
+accuracy .
+•Identify  the effective  sampling  techniques  that  might  potentially  achieve  the research  goals .
+•Test  each  of these  methods  and  examine  whether  they  help  achieve  the goal  and  select  the 
+method  that  works  best  for the research .
+• Many  statistical  methods  assume  random  sampling ; however,  it is often  impractical  to obtain  
+random  samples .
+• Inferences  to populations  from  nonrandom  samples  can  be justified,  but this  depends  on 
+background  information  sufficient  to determine  that  a sample  is representative .
+• Biases  in sampling  procedures  can  mislead .
+• Conclusions  from  a study  should  be consistent  with  how  the data  was  sampled .Sampling Example
+91 CDS 533
+Let’stake aninteresting case study and apply these steps toperform sampling .Recently
+conducted General Elections inIndia afew months back .The public opinion polls every news
+channel was running atthe time :
+Were these results concluded by considering the views of all 900 million voters of 
+the country or a fraction of these voters?Sampling Example
+92 CDS 533
+Step 1
+The first stage inthe sampling process istoclearly define the target population .
+So, tocarry out opinion polls, polling agencies consider only the people who are above 18
+years ofage and are eligible tovote inthe population .
+Step 2
+Sampling Frame–Itisalist ofitems orpeople forming apopulation from which the sample is
+taken .
+So, the sampling frame would bethe list ofallthe people whose names appear onthe voter
+listofaconstitu

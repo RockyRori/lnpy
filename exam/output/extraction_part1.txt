@@ -1,0 +1,130 @@
+CDS 533
+Statistics for Data Science
+Instructor: Lisha Yu
+Division of Artificial Intelligence 
+School of Data Science
+Lingnan University
+Fall 2024
+2 CDS 2001Data: The Heart of Statistics3 CDS 2001Big Picture of Statistics
+DataWhat is Data?
+4 CDS 533Look around you, there is data everywhere.
+Data refers to facts and statistics collected together for reference or analysis.
+(Not limit to)Sources of Data
+5 CDS 533Depending on the objective of the data collection, the source of data is said to be
+•Primary data
+•Information collected directly from source
+•Data collected for very 1sttime
+•Data is original and specific to your researchSources of Data
+6 CDS 533Depending on the objective of the data collection, the source of data is said to be
+•Secondary data
+•Data collected by someone else (Often the primary data)
+•Data collected in the past
+•Data is NOT original or 1sthand dataSources of Data
+7 CDS 533Questions:
+A marketing agency utilizes sales reports and customer feedback from a retail 
+store to analyze market trends for a new product launch.
+A research team conducts surveys and interviews with patients to gather 
+information about the effectiveness of a new drug.Sources of Data
+8 CDS 533Questions:
+Amarketing agency utilizes sales reports and customer feedback from aretail
+store toanalyze market trends foranew product launch .
+A research  team  conducts  surveys  and  interviews  with  patients  to gather  
+information  about  the effectiveness  of a new  drug .ANSWER: Secondary data
+ANSWER: Primary dataCategories of Data
+9 CDS 533
+Statistical  way…Categories of Data
+10 CDS 533Nominal Data
+This type of data is qualitative in nature which has 
+no inherent mathematical significance . It is sort 
+of a fixed value under which a unit of observation 
+is assigned or “categorized ”.Qualitative data 
+represents groupings
+Categories of Data
+11 CDS 533Ordinal Data
+This type of data is the combination of numerical 
+and categorical data ,i.e. categorical data having 
+some mathematical significance.Qualitative data 
+represents groupings
+Categories of Data
+12 CDS 533Qualitative data 
+represents groupings
+Categories of Data
+13 CDS 533Discrete Data
+Discrete data is the information that often counts 
+of some event ,i.e. can only take specific values. 
+These are often integer -based , but not necessarily.
+eg:
+•Number of times a coin was flipped
+•Shoe sizes of peopleQuantitative data 
+represents amounts
+Categories of Data
+14 CDS 533Continuous Data
+Continuous Data is the information that has the 
+possibility of having infinite values ,i.e. can take 
+any value within a range.
+eg:
+•How many centimeters of rain fell on a given day
+•Distance, volumeQuantitative data 
+represents amounts
+Categories of Data
+15 CDS 533Quantitative data 
+represents amounts
+Level of Measurement
+18 CDS 533When  we conducting  statistical  analysis…
+Data  is often  represented  in a rectangular  array  where  each  column  is a variable  
+and  each  row  is an observational  unit  or sampling  unit .
+It is important, as it determines the type of statistical analysis you can carry out.Level of Measurement
+19 CDS 533•Nominal  variables  are used  to 
+“name”  a series  of values . 
+•Ordinal  scales  provide  good  
+information  about  the order  of 
+choices . 
+•Interval  scales  give  us the 
+order  of values  + the ability  to 
+quantify  the difference  between  
+each  one . 
+•Ratio  scales  give  us the 
+ultimate–order,  interval  values,  
+plus  the ability  to calculate  
+ratios  since  a “true  zero”  can  be 
+defined .
+Level of Measurement
+20 CDS 533
+Level of Measurement
+21 CDS 533
+Level of Measurement
+22 CDS 533
+Level of Measurement
+23 CDS 533
+Data Collection Method
+24 CDS 533There are many methods to collect data:
+•Census
+•Sample survey
+•Administrative data
+•Crowdsourcing
+•Web scraping
+•Remote sensing
+•Statistical registers
+•Open data
+•Big dataType of Data
+25 CDS 533Passive  data
+e.g., web  browsing  history,  sensor  data,  GPS,  ect.
+Active  data
+e.g., survey  response,  social  media  post,  form  submissions,  ect.Data can be passive and active.Data Quality
+26 CDS 533Generally  speaking,  statistical  data  is evaluated  in terms  of its “fitness  for use” 
+- that  is, the extent  to which  the statistical  information  can  be relied  upon  to 
+fulfill  the information  needs .
+Quality  dimensions :
+•Relevance  (e.g., relate  to question  or data  gap)
+•Accessibility  (e.g, easy  to access  or affordable)
+•Accuracy  (e.g., cover  the required  population  and  period  of reference)
+•Timeliness  (e.g., willing  to accept  lower  accuracy  to get the data  faster)
+•Interpretability  (e.g., useful,  reliable,  complete)
+•Coherence  (e.g., information  consistent  over  time)27 CDS 2001Big Picture of Statistics
+Study DesignData Gathering
+28 CDS 533To begin,  the following  questions  should  be addressed :
+•Why  is this  being  conducted?
+•Whom  will the collected  information  be about?
+•What  do I need  to know?
+•How  will the information  be used?
+•How 

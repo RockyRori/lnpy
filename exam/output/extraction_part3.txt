@@ -1,0 +1,87 @@
+ the same  person  3 times  on an electronic  balance  and  obtain  slightly  
+different  measurements  – 67.5 kg, 67.4 kg and  67.6 kg
+Variability  may  be due  to operator,  instrument  and  subject
+Minimize  random  error  and  improve  precision
+•Operating  manuals,  training  the operator,  refining  / automating  instruments
+•Repeat  the measurement  and  average  over  a larger  number  of observations  (but!  
+added  cost,  practical  difficulties)Measurements: precision versus accuracy
+46 CDS 533Accuracy  of a variable  (Bias) : the degree  to which  a variable  actually  represents       
+what  it is supposed  to represent . It is a function  of systematic  error  (bias)  which  is often  
+difficult  to detect  and  has  important  influence  on the validity  of the result . [Center ]
+Example : incorrect  calibration  of an instrument
+Improve  accuracy  and  minimize  bias
+•Operating  manuals,  training  the operator,  refining  / automating  instruments
+•Periodic  calibration  using  a gold  standard  
+•Blinding : double–blind  study : the experimental  subject  and  the evaluator  have  no 
+information  on which  treatment  that  they  receive  or give , any  inaccuracy  in 
+measuring  the outcome  will be the same  in the 2 groupsMeasurements: precision versus accuracy
+47 CDS 533Bias  and  variance  in shooting  arrows  at a target . Bias  means  that  the archer  
+systematically  misses  in the same  direction . Variance  means  that  the arrows  
+are scattered .
+•Tradeoff48 CDS 533Review – Type of Data
+    – Study Design
+www.kahoot.it49 CDS 2001Big Picture of Statistics
+SamplingSampling 
+50 CDS 533Scenario : The  university  wants  to assess  student  satisfaction  with  campus  
+facilities . 
+How will you collect the data?
+Sampling 
+51 CDS 533Sampling  process  of selecting  a small  number  of elements  (samples)  from  
+a larger  defined  target  group  of elements  (Population)  such  the information  
+gathered  from  the samples  will allow  judgments  to the population .Sampling 
+52 CDS 533Scenario : The  university  wants  to assess  student  satisfaction  with  campus  
+facilities .
+How will you collect the data?
+Poor Data Collection Method:
+The university decides to distribute an online survey only to students who 
+frequently visit the campus coffee shop. 
+Sampling 
+53 CDS 533If sample  data  are not collected  in an appropriate  way,  the data  may  be so 
+completely  useless  that  no amount  of statistical  tutoring  can  salvage  them .
+Method used to collect sample data influences the quality of the staitstical 
+analysis.
+What other data collection problems can you think of?Sampling Distortion
+54 CDS 533•Sampling  Error
+•Sampling  BiasSampling Error
+55 CDS 533Sampling  error  is the error  caused  by observing  a sample  instead  of the whole  
+population . 
+•difference  between  ҧ𝑥 and  𝜇
+•inevitable  gap
+Sampling Error
+56 CDS 533Non -sampling  error  refers  to all sources  of error  that  are unrelated  to sampling .   
+•when  there  are problems  with  the sampling  method,  or the way  the survey  
+is designed  or carried  out.
+(part)Sampling Bias
+58 CDS 533Sampling  bias  is a bias  in which  a sample  is collected  in such  a way  that  
+some  members  of the intended  population  have  a lower  sampling  
+probability  than  others .
+59 CDS 533A health  organization  wants  to study  the dietary  habits  of teenagers . They  
+decide  to survey  students  at a local  high  school  known  for its strong  
+athletic  program .
+What  types  of sampling  distortion  are present  in this  scenario,  and  how  
+might  it influence  the conclusions  about  the dietary  habits  of all teenagers?
+•Sampling  Bias
+•The  dietary  habits  reported  may  reflect  the nutritional  needs  and  preferences  of 
+athletes  rather  than  those  of all teenagers,  that  could  lead  to misguided  policy  
+recommendations  or health  initiatives  aimed  at the broader  teenage  population .Discussion
+60 CDS 533A researcher  is studying  the average  test  scores  of high  school  students  in 
+a district . They  randomly  select  30 students  from  one  school,  which  
+happens  to have  a particularly  high -performing  academic  reputation .
+What  sampling  sampling  distortion  could  occur  in this  scenario,  and  how  
+might  it impact  the estimation  of the average  test  scores  for all high  school  
+students  in the district?
+•Sampling  Error
+•The  average  test  score  calculated  may  not accurately  reflect  the performance  
+of all high  school  students  in the district,  may  potentially  influencing  funding  
+and  resource  allocation  decisions .Discussion
+Characterics of Good Sample 
+61 CDS 533•Representativeness
+•Accessible
+•Cost  effective
+•Of the right  size
+•Generalizability  (lack  of bias)
+•Obtained  with  minimum  sampling  error
+•It shoud  be suitable  for anlysis  as per the study  design  
+63 CDS 533How can we select representative samples?
+Sampling Method
+64 CDS 5

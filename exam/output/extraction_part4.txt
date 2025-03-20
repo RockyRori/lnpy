@@ -1,0 +1,89 @@
+33There  are two  primary  types  of sampling  methods :
+•Probability sampling involves random selection , allowing you to make strong 
+statistical inferences about the whole group. [quatitative reseach]
+•Non -probability sampling involves non -random selection based on 
+convenience or other criteria, allowing you to easily collect data. [ exploratory 
+and qualitative research ]
+Sampling Techniques
+65 CDS 533
+Sampling Techniques
+66 CDS 533
+Simple Random Sample 
+67 CDS 533Simple random sample  is a randomly selected subset of a population.
+•Most straightforward 
+•Lower risk for research biases like sampling bias and selection bias
+Simple Random Sample 
+68 CDS 533
+•High  internal  validity : randomization  is the best  method  to reduce  the impact  of 
+potential  confounding  variables .
+•With  a large  enough  sample  size,  a simple  random  sample  has  high  external  validity : it 
+represents  the characteristics  of the larger  population .
+Simple Random Sample 
+69 CDS 533•Simple random sampling can be challenging  to implement in practice. To use this 
+method, there are some prerequisites, you
+•have a complete list of every member of the population
+•can contact or access each member of the population if they are selected
+•have the time and resources to collect data from the necessary sample size
+Simple  random  sampling  works  best  if you  have  a lot of time  and  resources  to conduct  
+your  study,  or if you  are studying  a limited  population  that  can  easily  be sampled .Systematic Sampling 
+70 CDS 533Systematic sampling is a method in which researchers select members of the population 
+at a regular interval (or k) determined in advance.
+•Applied with/without a list of the entire population
+•It’s essential to consider the order in which your population is listed to ensure that 
+your sample is valid.
+Systematic Sampling 
+71 CDS 533
+You  should  not use  systematic  sampling  if your  population  is ordered  cyclically  or periodically,  
+as your  resulting  sample  cannot  be guaranteed  to be representative .Stratified Sampling 
+72 CDS 533Stratified  sampling  involves dividing the population into subpopulations that may differ in 
+important ways (e.g., gender identity, age range, income bracket, job role).  
+•Rely on stratified sampling when a population’s characteristics are diverse and they 
+want to ensure that every characteristic is properly represented in the sample. 
+Stratified Sampling 
+73 CDS 533
+•To use  stratified  sampling,  you  need  to be able  to divide  your  population  into  mutually  exclusive  
+and  exhaustive  subgroups . 
+•Every  member  of the population  can  be ONLY  classified  into  one  subgroup .
+•Best  choice  when  you  believe  that  subgroups  will have  different  mean  values  for the variable(s)  
+you’re  studying . Stratified Sampling 
+74 CDS 533It has  several  potential  advantages :
+•Ensuring  the diversity  of your  sample
+•Ensuring  similar  variance
+•Lowering  the overall  variance  in the population
+•Allowing  for a variety  of data  collection  methods
+Cluster Sampling 
+75 CDS 533Cluster  sampling   divides  a population  into  smaller  groups  known  as clusters  (each  cluster  
+should  have  similar  characteristics  to the whole  sample) . They  then  randomly  select  among  
+these  clusters  to form  a sample .
+•It is often  used  to study  large  populations,  particularly  those  that  are widely  
+geographically  dispersed . 
+•Researchers  usually  use  pre-existing  units  such  as schools  or cities  as their  clusters .
+Cluster Sampling 
+76 CDS 533•This  method  is good  for dealing  with  large  and  dispersed  populations .
+•There  is more  risk  of error  in the sample,  as there  could  be substantial  differences  between  
+clusters . 
+•It’s difficult  to guarantee  that  the sampled  clusters  are really  representative  of the whole  
+population .
+Multistage Sampling 
+77 CDS 533Multistage  sampling , or multistage  cluster  sampling,  you  draw  a sample  from  a 
+population  using  smaller  and  smaller  groups  (units)  at each  stage . It’s often  used  to collect  
+data  from  a large,  geographically  spread  group  of people  in national  surveys . 
+Multistage Sampling 
+78 CDS 533
+A combination  of different  sampling  methods .Multistage Sampling 
+79 CDS 533
+Advantage :
+•No need tostart with asampling frame of target population .
+•It’s relatively inexpensive and effective when have alarge orgeographically dispersed
+population .
+•It’sflexible— can vary sampling methods between stages based onwhat’sappropriate or
+feasible .Sampling Techniques
+80 CDS 533
+Convenience Sampling 
+81 CDS 533Convenience  sample  simply  includes  the individuals  who  happen  to be most  
+accessible  to the researcher .
+•Easier  and  cheaper  to access
+•Ways  to collect : online,  social  media  post,  in-person,  crowdcourcing,  pre-existing  
+groups,  ect..
+•Higher  risk  of sampling  biasConvenience Sampling 
+82 CDS 533Convenience  sampling  

@@ -1,0 +1,108 @@
+ accurate  and  timely  does  the information  have  to be?29 CDS 533Data is everywhere ...  
+What is your research question
+Formulate a relevant  research  question30 CDS 2001The Role of Statistics
+•Design : Planning  and  carring  out research  study
+•Description : Summarizing  and  exploring  data
+•Inference : Making  predictions  and  generalizationStudy Design
+31 CDS 533Instatistical studies, the type ofstudy design used and the details ofthe
+design are important indetermining what kind ofconclusions we may
+draw from the results .
+Study Design
+32 CDS 533Instatistical studies, the type ofstudy design used and the details ofthe
+design are important indetermining what kind ofconclusions we may
+draw from the results .
+Sample Surveys
+33 CDS 533Sample  surveys  are a special  type  of data  collection  that  usually  aim  to 
+discover  the opinions  of people  on certain  topics .
+In a sample  survey,  a sample  of individuals  is selected  from  a larger  
+population  of individuals .  
+The  idea  of sampling  is to study  a small  part  of the population  in order  to gain  
+information  about  the population  as a whole .  
+Conclusions  drawn  from  a sample  are valid  only  when  the sample  is drawn  in 
+a well -defined  way .Survey Design
+34 CDS 533To design  a survey,  many  decisions  have  to be made  about  the following  
+issues .
+•Survey  objectives
+•Target  population
+•Data  requirements
+•Type  of collection
+•Minimizing  error
+•Sample  size
+•Analysis  plan
+•Questionnaire  design
+•Data  collection  methods
+•Data  processing  plan
+•Quality  control
+•Analysis  and  dissemination  of results
+Survey Bias
+35 CDS 533Bias  is defined  as a “deviation  of results  or inferences  from  the truth,  or processes  
+leading  to such  a deviation”  and  it occurs  in every  survey .
+•Selection : How  was  the survey  sample  selected?  How  many  participants  
+completed  the survey?  Was  the sample  broad  enough  to capture  the most  
+valuable  insights?
+•Response : How  are participants  swayed  by leading  factors  from  the interviewer?  
+Such  as the questions  asked,  their  format,  and  the respondent’s  desires  to be 
+socially  accepted?
+•Interviewer : Is the interviewer  unconsciously  sending  signals  to participants  that  
+could  alter  their  answers?  Are the interviewers  biased?  Are the survey  questions  
+tailored  towards  specific  outcomes?Survey Example
+36 CDS 533Doctor  of Artificial  Intelligence
+https ://forms .office .com/Pages/ResponsePage .aspx?id=nReQ_geCskyINAzif
+uAWLbxijFLlNFFOrsXVJM 7sZEBUNFZEM 0JHVVRXRUxOQ 0VRQ 0ZHNldPUUQ
+4MS4uStudy Design
+37 CDS 533Instatistical studies, the type ofstudy design used and the details ofthe
+design are important indetermining what kind ofconclusions we may
+draw from the results .
+Study Design
+38 CDS 533Statistical  methods  are driven  by te data  that  we collect . We typically  
+obtain  data  from  two  distinct  soures :
+•Observational  studies
+•observing  and  mesuring  specific  charactertistics  without  
+attempting  to modify  the subject  being  studied
+•Focus  on the association
+Observational Studies
+39 CDS 533•Cross  sectional  study
+Data  are observed,  measured,  and  collected  at one  point  in time .
+•Longitudinal  study
+•Retrospective  
+•Prospective
+Observational Studies (Longitudinal)
+40 CDS 533Retrospective  (or case  control)  study
+Data  are collected  from  the past  by going  back  in time  (examine  records,  
+interviews, ...)
+Prospective  (or longitudinal  or cohort)  study
+Data  are collected  in the future  form  groups  sharing  common  factors  (call  
+cohorts) .
+Study Design
+41 CDS 533Statistical  methods  are driven  by te data  that  we collect . We typically  
+obtain  data  from  two  distinct  soures :
+•Experimental  studies
+•apply  some  treatment  and  then  observe  its effects  on the 
+subjects ; (subjects  in experiments  are called  experimental  units)
+•Focus  on cause -and -effect
+Experimental Study
+42 CDS 533Randomized  controlled  trial  (RCT)
+1. Eligible  people  are randomly  assigned  to one  of two  or more  groups . 
+2. One  group  receives  the intervention  (such  as a new  drug)  while  the control  group  
+receives  nothing  or an inactive  placebo . 
+3. The  researchers  then  study  what  happens  to people  in each  group . 
+4. Any  difference  in outcomes  can  then  be linked  to the intervention .
+Study Design
+43 CDS 533
+Design  of Experiment
+Further readings: https://www.moresteam.com/toolbox/design -of-experimentsBias and Variability
+44 CDS 533What would happen if we took many samples?
+Population
+Sample
+Sample
+Sample
+Sample
+Sample
+Sample
+Sample
+Sample
+?Measurements: precision versus accuracy
+45 CDS 533Precision  of a variable  (Variability) : the degree  to which  a variable  has  nearly  the 
+same  value  when  measured  several  times . It is a function  of random  error  (chance)    and  is 
+assessed  as the reproducibility  of repeated  measurements . [Spread ]
+Example : weigh 
